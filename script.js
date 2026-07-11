@@ -327,13 +327,7 @@ const SITE = {
       "meta": "Bank statement purchase \u00b7 Phoenix, AZ"
     }
   ],
-  "confetti": [
-    "#b97a1c",
-    "#d19a45",
-    "#f9efdc",
-    "#3a2f1b",
-    "#966114"
-  ]
+  "confetti": ["#10b981", "#34d399", "#f5b942", "#ffffff", "#1a2440"]
 };
 
 const ICONS = {
